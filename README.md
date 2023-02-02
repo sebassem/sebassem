@@ -2,7 +2,7 @@
 
 A little bit about me:
 
-- Sr. Customer Engineer @ Microsoft
+- Sr. Cloud Solution Architect @ Microsoft
 - Helping customers all over the world to accelerate their digital transformation leveraging Azure services
 - Part of the Azure [Arc Jumpstart project team](https://aka.ms/arcjumpstart)
 - Previously part of the [Microsoft FastTrack](https://www.microsoft.com/fasttrack) team
