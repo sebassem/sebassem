@@ -11,10 +11,10 @@ A little bit about me:
 ### Connect with me 🤝
 
 <a href="https://twitter.com/SeifBassem">
-  <img align="left" alt="Seif Bassem | Twitter" width="22px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/twitter.svg" />
+  <img align="left" alt="Seif Bassem | Twitter" width="22px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/x/x.svg" />
 </a>
 <a href="https://www.linkedin.com/in/seif-bassem/">
-  <img align="left" alt="Seif Bassem's Linkedin" width="22px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/linkedin.svg" />
+  <img align="left" alt="Seif Bassem's Linkedin" width="22px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/linkedin/linkedin.svg" />
 </a>
 <a href="https://www.seifbassem.com/">
   <img align="left" alt="Seif Bassem's blog" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg" />
