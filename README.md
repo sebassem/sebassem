@@ -38,13 +38,13 @@ A little bit about me:
 
 ## 📝 Latest Blog Posts and activities
 
-- [Adding a user interface to your ARM templates](https://www.seifbassem.com/blogs/posts/azure-arm-templates-ui/)
-- [Azure Chaos Studio - Wreak Chaos in your Azure environment](https://www.seifbassem.com/blogs/unboxing/introducing-azure-chaos-studio/)
+- [Extended Security Updates via Azure Arc - Everything you need to know](https://www.seifbassem.com/blogs/posts/esus-using-azure-arc/)
+- [Test your GitHub actions locally on your dev machine](https://www.seifbassem.com/blogs/posts/test-github-actions-locally/)
 - [Secure Azure Arc servers onboarding using Conditional Access](https://www.seifbassem.com/blogs/posts/azure-arc-secure-service-principal-onboarding-using-conditional-access/)
-- [Automate non-Azure servers with Azure Arc-enabled servers](https://www.seifbassem.com/blogs/posts/azure-arc-automation/)
-- Azure Arc Jumpstart Lightning episode
+- [Build PowerShell notebooks using VScode and Polyglot](https://www.seifbassem.com/blogs/posts/vscode-polyglot-notebooks/)
+- Azure Greg chats with Seif Bassem about Azure Arc JumpStart
 
-    [![Watch the video](http://i3.ytimg.com/vi/bj7_phzzMS0/hqdefault.jpg)](https://youtu.be/bj7_phzzMS0)
+    [![Watch the video](http://i3.ytimg.com/vi/Qn1N26XGULc/hqdefault.jpg)](https://www.youtube.com/watch?v=Qn1N26XGULc)
     
 ---
 ## GitHub activity 
