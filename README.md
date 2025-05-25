@@ -14,7 +14,7 @@ A little bit about me:
   <img align="left" alt="Seif Bassem | Twitter" width="22px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/refs/heads/master/public/logos/social%20media/x/x-light.svg" />
 </a>
 <a href="https://www.linkedin.com/in/seif-bassem/">
-  <img align="left" alt="Seif Bassem's Linkedin" width="22px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/refs/heads/master/public/logos/social%20media/linkedin/linkedin.svg" />
+  <img align="left" alt="Seif Bassem's Linkedin" width="22px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/refs/heads/master/public/logos/social%20media/linkedin/linkedin-horizontal.svg" />
 </a>
 <a href="https://www.seifbassem.com/">
   <img align="left" alt="Seif Bassem's blog" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg" />
