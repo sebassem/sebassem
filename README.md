@@ -164,13 +164,14 @@ Global tech lead for Azure Arc, building hands-on training & driving hybrid clou
 
 <div align="center">
 
-| Event | Topic |
-|:---|:---|
-| **Microsoft Ignite 2024** | Workshop: Next-Gen Industrial Transformation Architecture Patterns |
-| **PSConfEU 2024** | Azure Arc Unleashed · Azure Verified Modules (PechaKucha) |
-| **Microsoft Community Insights Podcast** | Deploying LLMs on Kubernetes |
-| **Azure Greg Show** | Azure Arc Jumpstart deep dive |
-| **Azure Welsh User Group** | Community session |
+| Event | Topic | 🔗 |
+|:---|:---|:---:|
+| **Microsoft Ignite 2024** | Workshop: Next-Gen Industrial Transformation Architecture Patterns | |
+| **PSConfEU 2024** | Azure Arc Unleashed (90-min hands-on) | [▶️](https://www.youtube.com/watch?v=OsiOGjujCYw) |
+| **PSConfEU 2024** | Azure Verified Modules (PechaKucha 20×20) | [▶️](https://www.youtube.com/watch?v=n6KDWwvCqGc) |
+| **Microsoft Community Insights Podcast** | Deploying LLMs on Kubernetes | [▶️](https://www.youtube.com/watch?v=Q7B6SPJJQIc) |
+| **Azure Greg Show** | Azure Arc Jumpstart deep dive | [▶️](https://www.youtube.com/watch?v=Qn1N26XGULc) |
+| **Welsh Azure User Group** | Build Azure outside of Azure | [▶️](https://www.youtube.com/watch?v=dXjTw7OeEiU) |
 
 </div>
 
@@ -179,12 +180,12 @@ Global tech lead for Azure Arc, building hands-on training & driving hybrid clou
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [Self-Hosting LLMs on Kubernetes: Serving LLMs using vLLM](https://seifbassem.com/blogs/posts/hosting-llms-k8s-vllm/)
-- 🧠 [Self-Hosting LLMs on Kubernetes: Intro](https://seifbassem.com/blogs/posts/hosting-llms-k8s-intro/)
+- 🚀 [Self-Hosting LLMs on Kubernetes: Serving LLMs using vLLM](https://blog.seifbassem.com/blogs/posts/hosting-llms-k8s-vllm/)
+- 🧠 [Self-Hosting LLMs on Kubernetes: Intro](https://blog.seifbassem.com/blogs/posts/hosting-llms-k8s-intro/)
 - 🤖 [Level Up your workflows with GitHub Copilot's custom chat modes](https://www.seifbassem.com/blogs/posts/github-copilot-custom-chat-modes/)
-- 🔬 [CI/CD evaluation of Large Language Models using OpenEvals](https://seifbassem.com/blogs/posts/llm-evaluation-langchain/)
-- ☁️ [Simplifying private deployment of Azure AI services using AVM](https://seifbassem.com/blogs/posts/azure-ai-services-private-deployment/)
-- 🏗️ [Testing the latest Bicep Toys - Fail, Deployer and Graph](https://seifbassem.com/blogs/posts/bicep-fail-deployer-graph/)
+- 🔬 [CI/CD evaluation of Large Language Models using OpenEvals](https://blog.seifbassem.com/blogs/posts/llm-evaluation-langchain/)
+- ☁️ [Simplifying private deployment of Azure AI services using AVM](https://blog.seifbassem.com/blogs/posts/azure-ai-services-private-deployment/)
+- 🏗️ [Testing the latest Bicep Toys - Fail, Deployer and Graph](https://blog.seifbassem.com/blogs/posts/bicep-fail-deployer-graph/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ **More on [seifbassem.com](https://www.seifbassem.com/)**
