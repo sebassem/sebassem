@@ -176,12 +176,12 @@ Azure Arc Unleashed (90-min hands-on)
 <img src="https://img.youtube.com/vi/n6KDWwvCqGc/hqdefault.jpg" width="100%" alt="PSConfEU 2024 - Azure Verified Modules" />
 </a>
 <br />
-<strong>PSConfEU 2024</strong><br />
-Azure Verified Modules (PechaKucha 20×20)
+<strong>AZ-Security channel</strong><br />
+Azure Governance Visualizer
 </td>
 <td width="33%" align="center">
-<a href="https://www.youtube.com/watch?v=Q7B6SPJJQIc">
-<img src="https://img.youtube.com/vi/Q7B6SPJJQIc/hqdefault.jpg" width="100%" alt="Microsoft Community Insights Podcast" />
+<a href="https://www.youtube.com/watch?v=km7TYC2hEYg">
+<img src="https://img.youtube.com/vi/km7TYC2hEYg/hqdefault.jpg" width="100%" alt="AZ-Security channel" />
 </a>
 <br />
 <strong>Community Insights Podcast</strong><br />
@@ -220,14 +220,60 @@ Next-Gen Industrial Transformation Workshop
 
 ## ✍️ Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Self-Hosting LLMs on Kubernetes: Serving LLMs using vLLM](https://blog.seifbassem.com/blogs/posts/hosting-llms-k8s-vllm/)
-- 🧠 [Self-Hosting LLMs on Kubernetes: Intro](https://blog.seifbassem.com/blogs/posts/hosting-llms-k8s-intro/)
-- 🤖 [Level Up your workflows with GitHub Copilot's custom chat modes](https://www.seifbassem.com/blogs/posts/github-copilot-custom-chat-modes/)
-- 🔬 [CI/CD evaluation of Large Language Models using OpenEvals](https://blog.seifbassem.com/blogs/posts/llm-evaluation-langchain/)
-- ☁️ [Simplifying private deployment of Azure AI services using AVM](https://blog.seifbassem.com/blogs/posts/azure-ai-services-private-deployment/)
-- 🏗️ [Testing the latest Bicep Toys - Fail, Deployer and Graph](https://blog.seifbassem.com/blogs/posts/bicep-fail-deployer-graph/)
-<!-- BLOG-POST-LIST:END -->
+<table>
+<tr>
+<td width="33%" align="center">
+<a href="https://blog.seifbassem.com/blogs/posts/hosting-llms-k8s-vllm/">
+<img src="https://images.seifbassem.com/images/Posts/Hosting-LLMs-K8s-vLLM/banner.png" width="100%" alt="Self-Hosting LLMs using vLLM" />
+</a>
+<br />
+<strong>Self-Hosting LLMs on Kubernetes</strong><br />
+Serving LLMs using vLLM
+</td>
+<td width="33%" align="center">
+<a href="https://blog.seifbassem.com/blogs/posts/hosting-llms-k8s-intro/">
+<img src="https://images.seifbassem.com/images/Posts/Hosting-LLMs-K8s-Intro/banner.png" width="100%" alt="Self-Hosting LLMs Intro" />
+</a>
+<br />
+<strong>Self-Hosting LLMs on Kubernetes</strong><br />
+Intro
+</td>
+<td width="33%" align="center">
+<a href="https://www.seifbassem.com/blogs/posts/github-copilot-custom-chat-modes/">
+<img src="https://images.seifbassem.com/images/Posts/Github-Copilot-Custom-Chat-Modes/banner.png" width="100%" alt="GitHub Copilot Custom Chat Modes" />
+</a>
+<br />
+<strong>GitHub Copilot</strong><br />
+Custom Chat Modes
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+<a href="https://blog.seifbassem.com/blogs/posts/llm-evaluation-langchain/">
+<img src="https://images.seifbassem.com/images/Posts/llm-evaluation-openeval/banner.png" width="100%" alt="LLM Evaluation using OpenEvals" />
+</a>
+<br />
+<strong>CI/CD Evaluation of LLMs</strong><br />
+Using OpenEvals
+</td>
+<td width="33%" align="center">
+<a href="https://blog.seifbassem.com/blogs/posts/azure-ai-services-private-deployment/">
+<img src="https://images.seifbassem.com/images/Posts/Azure-AI-Services-Private-Deployment/banner.png" width="100%" alt="Azure AI Services Private Deployment" />
+</a>
+<br />
+<strong>Azure AI Services</strong><br />
+Private Deployment using AVM
+</td>
+<td width="33%" align="center">
+<a href="https://blog.seifbassem.com/blogs/posts/bicep-fail-deployer-graph/">
+<img src="https://images.seifbassem.com/images/Posts/bicep-fail-deployer-graph/banner.png" width="100%" alt="Bicep Toys" />
+</a>
+<br />
+<strong>Bicep Toys</strong><br />
+Fail, Deployer and Graph
+</td>
+</tr>
+</table>
 
 ▶️ **More on [seifbassem.com](https://www.seifbassem.com/)**
 
