@@ -8,6 +8,8 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sebassem)
 </div>
 
+![Seif's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebassem&show_icons=true)
+
 ---
 
 ### `> whoami`
@@ -195,17 +197,9 @@ Global tech lead for Azure Arc, building hands-on training & driving hybrid clou
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebassem&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebassem&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=sebassem&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sebassem&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sebassem&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" alt="Contribution Graph" />
