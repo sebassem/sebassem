@@ -193,7 +193,11 @@ Global tech lead for Azure Arc, building hands-on training & driving hybrid clou
 
 ## 📊 GitHub public repositories Stats
 
+<div align="center">
+
 ![Seif's public GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sebassem&show_icons=true&theme=radical)
+
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sebassem&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF" />
