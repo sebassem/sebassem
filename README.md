@@ -161,18 +161,60 @@ Global tech lead for Azure Arc, building hands-on training & driving hybrid clou
 
 ## 🎤 Speaking & Community
 
-<div align="center">
-
-| Event | Topic | 🔗 |
-|:---|:---|:---:|
-| **Microsoft Ignite 2024** | Workshop: Next-Gen Industrial Transformation Architecture Patterns | |
-| **PSConfEU 2024** | Azure Arc Unleashed (90-min hands-on) | [▶️](https://www.youtube.com/watch?v=OsiOGjujCYw) |
-| **PSConfEU 2024** | Azure Verified Modules (PechaKucha 20×20) | [▶️](https://www.youtube.com/watch?v=n6KDWwvCqGc) |
-| **Microsoft Community Insights Podcast** | Deploying LLMs on Kubernetes | [▶️](https://www.youtube.com/watch?v=Q7B6SPJJQIc) |
-| **Azure Greg Show** | Azure Arc Jumpstart deep dive | [▶️](https://www.youtube.com/watch?v=Qn1N26XGULc) |
-| **Welsh Azure User Group** | Build Azure outside of Azure | [▶️](https://www.youtube.com/watch?v=dXjTw7OeEiU) |
-
-</div>
+<table>
+<tr>
+<td width="33%" align="center">
+<a href="https://www.youtube.com/watch?v=OsiOGjujCYw">
+<img src="https://img.youtube.com/vi/OsiOGjujCYw/hqdefault.jpg" width="100%" alt="PSConfEU 2024 - Azure Arc Unleashed" />
+</a>
+<br />
+<strong>PSConfEU 2024</strong><br />
+Azure Arc Unleashed (90-min hands-on)
+</td>
+<td width="33%" align="center">
+<a href="https://www.youtube.com/watch?v=n6KDWwvCqGc">
+<img src="https://img.youtube.com/vi/n6KDWwvCqGc/hqdefault.jpg" width="100%" alt="PSConfEU 2024 - Azure Verified Modules" />
+</a>
+<br />
+<strong>PSConfEU 2024</strong><br />
+Azure Verified Modules (PechaKucha 20×20)
+</td>
+<td width="33%" align="center">
+<a href="https://www.youtube.com/watch?v=Q7B6SPJJQIc">
+<img src="https://img.youtube.com/vi/Q7B6SPJJQIc/hqdefault.jpg" width="100%" alt="Microsoft Community Insights Podcast" />
+</a>
+<br />
+<strong>Community Insights Podcast</strong><br />
+Deploying LLMs on Kubernetes
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+<a href="https://www.youtube.com/watch?v=Qn1N26XGULc">
+<img src="https://img.youtube.com/vi/Qn1N26XGULc/hqdefault.jpg" width="100%" alt="Azure Greg Show" />
+</a>
+<br />
+<strong>Azure Greg Show</strong><br />
+Azure Arc Jumpstart deep dive
+</td>
+<td width="33%" align="center">
+<a href="https://www.youtube.com/watch?v=dXjTw7OeEiU">
+<img src="https://img.youtube.com/vi/dXjTw7OeEiU/hqdefault.jpg" width="100%" alt="Welsh Azure User Group" />
+</a>
+<br />
+<strong>Welsh Azure User Group</strong><br />
+Build Azure outside of Azure
+</td>
+<td width="33%" align="center">
+<a href="https://ignite.microsoft.com">
+<img src="https://images.seifbassem.com/images/portfolio/ignite/banner.png" width="100%" alt="Microsoft Ignite 2024" />
+</a>
+<br />
+<strong>Microsoft Ignite 2024</strong><br />
+Next-Gen Industrial Transformation Workshop
+</td>
+</tr>
+</table>
 
 ---
 
