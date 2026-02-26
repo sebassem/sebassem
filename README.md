@@ -172,16 +172,16 @@ Global tech lead for Azure Arc, building hands-on training & driving hybrid clou
 Azure Arc Unleashed (90-min hands-on)
 </td>
 <td width="33%" align="center">
-<a href="https://www.youtube.com/watch?v=n6KDWwvCqGc">
-<img src="https://img.youtube.com/vi/n6KDWwvCqGc/hqdefault.jpg" width="100%" alt="PSConfEU 2024 - Azure Verified Modules" />
+<a href="https://www.youtube.com/watch?v=km7TYC2hEYg">
+<img src="https://img.youtube.com/vi/km7TYC2hEYg/hqdefault.jpg" width="100%" alt="Azure Governance Visualizer" />
 </a>
 <br />
-<strong>AZ-Security channel</strong><br />
+<strong>AzSecurity - Learn by doing</strong><br />
 Azure Governance Visualizer
 </td>
 <td width="33%" align="center">
-<a href="https://www.youtube.com/watch?v=km7TYC2hEYg">
-<img src="https://img.youtube.com/vi/km7TYC2hEYg/hqdefault.jpg" width="100%" alt="AZ-Security channel" />
+<a href="https://www.youtube.com/watch?v=Q7B6SPJJQIc">
+<img src="https://img.youtube.com/vi/Q7B6SPJJQIc/hqdefault.jpg" width="100%" alt="Microsoft Community Insights Podcast" />
 </a>
 <br />
 <strong>Community Insights Podcast</strong><br />
