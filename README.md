@@ -6,17 +6,15 @@
 [![Website](https://img.shields.io/badge/seifbassem.com-000?style=for-the-badge&logo=astro&logoColor=white)](https://www.seifbassem.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-bassem/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sebassem)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seif.bassem@outlook.com)
-
 </div>
 
 ---
 
 ### `> whoami`
 
-I architect **Cloud & AI solutions** at Microsoft, helping enterprise customers worldwide accelerate their digital transformation on Azure. With **12+ years** in the industry, I bridge the gap between cutting-edge technology and real business impact — from landing zone design to AI-powered platforms at national scale.
+I architect **Cloud & AI solutions**, helping enterprise customers worldwide accelerate their digital transformation on Azure. With **17+ years** in the industry, I bridge the gap between cutting-edge technology and real business impact, from landing zone design to AI-powered platforms at national scale.
 
-I don't just consult — I **build**. Many of my side-projects have scaled into globally adopted tools and frameworks used by thousands.
+I don't just consult, I **build**. Many of my side-projects have scaled into globally adopted tools and frameworks used by thousands.
 
 ---
 
@@ -30,7 +28,7 @@ I don't just consult — I **build**. Many of my side-projects have scaled into 
 | **Subscription Vending Module** | 18,000+ deployments · 125+ tenants |
 | **Arc workshops delivered worldwide** | 350+ |
 | **Cost Optimization Workbook users** | ~1,800 monthly active users |
-| **CAF documentation views** | ~2,360 monthly page views |
+| **Cloud adoption framework articles views** | ~2,360 monthly views |
 
 </div>
 
@@ -45,7 +43,7 @@ I don't just consult — I **build**. Many of my side-projects have scaled into 
 ### 🌐 Azure Landing Zones
 **Core Maintainer**
 
-Enterprise-scale landing zone architecture for Azure — leading the feature alignment workstream.
+Enterprise-scale landing zone architecture for Azure , leading the feature alignment workstream.
 
 - 12+ new features released
 - Delivery cycle cut from **quarters → weeks**
@@ -60,7 +58,7 @@ Enterprise-scale landing zone architecture for Azure — leading the feature ali
 ### ⚡ Azure Arc Jumpstart
 **Lead Core Maintainer**
 
-Microsoft's cornerstone adaptive cloud project — "zero to hero" guides with full automation.
+Microsoft's cornerstone adaptive cloud project , "zero to hero" guides with full automation.
 
 - 5-year evolution from content → engineering product
 - Lead engineer for Contoso reference implementations
@@ -102,7 +100,7 @@ Built with the Azure Advisor product group to help customers identify and act on
 <tr>
 <td width="50%" valign="top">
 
-### � Azure Verified Modules
+### 🏭 Azure Verified Modules
 **Contributor**
 
 Standardized IaC modules for the Azure ecosystem, trusted across thousands of deployments.
@@ -143,6 +141,7 @@ Global tech lead for Azure Arc, building hands-on training & driving hybrid clou
 ![Azure Arc](https://img.shields.io/badge/Azure_Arc-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AKS](https://img.shields.io/badge/AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=Purple)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 #### Infrastructure as Code & Automation
@@ -217,7 +216,7 @@ Global tech lead for Azure Arc, building hands-on training & driving hybrid clou
 
 ### 💬 Let's Connect
 
-Whether it's cloud architecture, AI solutions, or open-source collaboration — I'm always up for a conversation.
+Whether it's cloud architecture, AI solutions, or open-source collaboration , I'm always up for a conversation.
 
 [![Ask AI on my website](https://img.shields.io/badge/Ask_my_AI_assistant-seifbassem.com-1a73e8?style=for-the-badge&logo=openai&logoColor=white)](https://www.seifbassem.com/)
 
